@@ -11,3 +11,10 @@ data-driven environment
 - **Automation & ETL:** Power Query, Python Automation 
 - **Statistical Analysis:** Hypothesis Testing, A/B Testing, Data Cleaning 
 - **Soft Skills:** Problem-Solving, Critical Thinking, Communication Attention to Detail 
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
