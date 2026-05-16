@@ -212,14 +212,3 @@ CVAT • Label Studio • Fiji
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=BhaskarPal1707&label=Profile%20Views&color=27AE60&style=for-the-badge"/>
-</p>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
